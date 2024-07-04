@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day10-code/day10-code.iml" filepath="$PROJECT_DIR$/day10-code/day10-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11-code/day11-code.iml" filepath="$PROJECT_DIR$/day11-code/day11-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12-code/day12-code.iml" filepath="$PROJECT_DIR$/day12-code/day12-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13-code/day13-code.iml" filepath="$PROJECT_DIR$/day13-code/day13-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14-code/day14-code.iml" filepath="$PROJECT_DIR$/day14-code/day14-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15-code/day15-code.iml" filepath="$PROJECT_DIR$/day15-code/day15-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16-code/day16-code.iml" filepath="$PROJECT_DIR$/day16-code/day16-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17-code/day17-code.iml" filepath="$PROJECT_DIR$/day17-code/day17-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day2-code/day2-code.iml" filepath="$PROJECT_DIR$/day2-code/day2-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day3-code/day3-code.iml" filepath="$PROJECT_DIR$/day3-code/day3-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day4-code/day4-code.iml" filepath="$PROJECT_DIR$/day4-code/day4-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day5-code/day5-code.iml" filepath="$PROJECT_DIR$/day5-code/day5-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day6-code/day6-code.iml" filepath="$PROJECT_DIR$/day6-code/day6-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day7-code/day7-code.iml" filepath="$PROJECT_DIR$/day7-code/day7-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day8-code/day8-code.iml" filepath="$PROJECT_DIR$/day8-code/day8-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day9-code/day9-code.iml" filepath="$PROJECT_DIR$/day9-code/day9-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pacage insert/pacage insert.iml" filepath="$PROJECT_DIR$/pacage insert/pacage insert.iml" />
+    </modules>
+  </component>
+</project>
